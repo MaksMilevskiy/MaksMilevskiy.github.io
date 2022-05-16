@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.67fd002b.css",
+    "main.js": "/static/js/main.fd102c33.js",
+    "static/media/tomatoes_bg.jpg": "/static/media/tomatoes_bg.052c56e9fac65cb7cf88.jpg",
+    "static/media/tomato.png": "/static/media/tomato.8965a54796270f82455c.png",
+    "index.html": "/index.html",
+    "main.67fd002b.css.map": "/static/css/main.67fd002b.css.map",
+    "main.fd102c33.js.map": "/static/js/main.fd102c33.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67fd002b.css",
+    "static/js/main.fd102c33.js"
+  ]
+}
